@@ -1,6 +1,6 @@
 # Installation
 
-Recommended that you use (vundle)[https://github.com/gmarik/vundle] to install.  Here is what the start of my
+Recommended that you use [vundle](https://github.com/gmarik/vundle) to install.  Here is what the start of my
 vimrc looks like:
 
     set nocompatible
